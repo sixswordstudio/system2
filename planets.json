@@ -1,0 +1,56 @@
+{
+    "_documentation": {
+        "description": "This JSON file contains metadata for planets, including Wikipedia page data, screenshot info, and content metadata. Used by both differsnapper.py and contentcatcher.py.",
+        "usage": "Add or update page titles and metadata related to planets."
+    },
+    "pages": [
+        {
+            "title": "Mercury (planet)",
+            "page_id": null,
+            "screenshots": [],
+            "content_blocks": []
+        },
+        {
+            "title": "Venus (planet)",
+            "page_id": null,
+            "screenshots": [],
+            "content_blocks": []
+        },
+        {
+            "title": "Earth (planet)",
+            "page_id": null,
+            "screenshots": [],
+            "content_blocks": []
+        },
+        {
+            "title": "Mars (planet)",
+            "page_id": null,
+            "screenshots": [],
+            "content_blocks": []
+        },
+        {
+            "title": "Jupiter (planet)",
+            "page_id": null,
+            "screenshots": [],
+            "content_blocks": []
+        },
+        {
+            "title": "Saturn (planet)",
+            "page_id": null,
+            "screenshots": [],
+            "content_blocks": []
+        },
+        {
+            "title": "Uranus (planet)",
+            "page_id": null,
+            "screenshots": [],
+            "content_blocks": []
+        },
+        {
+            "title": "Neptune (planet)",
+            "page_id": null,
+            "screenshots": [],
+            "content_blocks": []
+        }
+    ]
+}

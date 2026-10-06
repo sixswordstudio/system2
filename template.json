@@ -1,0 +1,41 @@
+{
+    "_documentation": {
+        "description": "This JSON file defines modules and their associated pages. Each 'module' corresponds to a product feature or section in the software (or in this case, planets in the solar system for this proof of concept). Each module contains a list of 'pages' that represent the individual UI pages or sections within that module. The script will iterate through each module and capture screenshots for the listed pages.",
+        "usage": "To use this file, you can replace the current module (e.g., 'Planets in the Solar System') with the name of your product module, and replace the pages with the specific UI pages you want to capture. For example, 'Login Page', 'Dashboard', 'Settings'.",
+        "structure": {
+            "modules": {
+                "Module Name": [
+                    "Page Name 1",
+                    "Page Name 2",
+                    "Page Name 3"
+                ]
+            }
+        },
+        "example": {
+            "modules": {
+                "Authentication Module": [
+                    "Login Page",
+                    "Sign-Up Page",
+                    "Forgot Password Page"
+                ],
+                "User Management Module": [
+                    "User Profile",
+                    "User Settings",
+                    "User Activity Log"
+                ]
+            }
+        }
+    },
+    "modules": {
+        "Planets in the Solar System": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+        ]
+    }
+}
